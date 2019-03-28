@@ -1,6 +1,3 @@
-[submodule "ReadyPhp/Application"]
-	path = ReadyPhp/Application
-	url = https://github.com/paveldvorak5/readyphp-application.git
 [submodule "Application"]
 	path = Application
 	url = https://github.com/paveldvorak5/readyphp-application.git
